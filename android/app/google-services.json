@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998499343432",
+    "project_id": "biodata-1f5cf",
+    "storage_bucket": "biodata-1f5cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998499343432:android:fa4d6a180a0682ec938c7d",
+        "android_client_info": {
+          "package_name": "com.latihan.biodata.biodata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOwNST0UswyQlntWubPJa1VNY42LLoUdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
